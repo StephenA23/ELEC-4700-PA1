@@ -1,0 +1,6 @@
+PA1 ELEC 4700
+Creating a new repo 
+Adding files to the repo
+Commit 
+Push back onto github
+Verify
